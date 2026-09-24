@@ -351,7 +351,7 @@ python test_retrieval.py
 
 ## 👩‍💻 Author
 
-**Tisnoor Kaur**
+**Samia Sharif**
 
 B.Tech Computer Science Engineering  
 Thapar Institute of Engineering & Technology
